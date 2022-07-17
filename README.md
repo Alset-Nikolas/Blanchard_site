@@ -1,2 +1,2 @@
 # Blanchard_site
-My first site
+Знакомство с версткой прошло успешно. Прошел курс по верстке в skillbox. 
